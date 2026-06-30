@@ -1,0 +1,6 @@
+{
+  "name": "CIVITAS AI",
+  "description": "Hackathon submission for Track 1 — People's Priorities: Helping MPs consolidate citizen feedback into ranked, data-backed development priorities using Gemini AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
